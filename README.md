@@ -1,7 +1,7 @@
 
 # PLC Challenge 🏭
 
-> Building real PLC & HMI experience from zero in 7 days 
+> Building real PLC & HMI experience from zero 
 > using Codesys because its free ):)
 
 ## Projects
