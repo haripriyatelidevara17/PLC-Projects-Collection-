@@ -1,5 +1,5 @@
 
-# PLC Challenge 🏭
+# PLC Project collection  🏭
 
 > Building real PLC & HMI experience from zero 
 > using Codesys because its free ):)
